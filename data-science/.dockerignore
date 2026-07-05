@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+notebooks/
+*.ipynb
+.git
+.gitignore
+README.md
